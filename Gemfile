@@ -44,7 +44,7 @@ group :development, :test do
 
   gem 'cucumber-rails', require: false
   gem 'minitest-rails-capybara'
-  gem 'capybara_minitest_spec'
+  gem 'capybara_minitest_spec', '1.0.6'
   gem 'database_cleaner'
 end
 

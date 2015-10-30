@@ -47,7 +47,7 @@ GEM
       rack (>= 1.0.0)
       rack-test (>= 0.5.4)
       xpath (~> 2.0)
-    capybara_minitest_spec (1.0.5)
+    capybara_minitest_spec (1.0.6)
       capybara (>= 2)
       minitest (>= 4)
     coffee-rails (4.1.0)
@@ -182,7 +182,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
-  capybara_minitest_spec
+  capybara_minitest_spec (= 1.0.6)
   coffee-rails (~> 4.1.0)
   cucumber-rails
   database_cleaner
